@@ -19,7 +19,7 @@ Reach out to me at one of the following places!
 - Website at <a href="http://www.androhub.com/" target="_blank">`androhub.com`</a>
 - Facebook at <a href="https://www.facebook.com/androhubtutorial/" target="_blank">`@androhubtutorial`</a>
 - Youtube at <a href="https://www.youtube.com/channel/UCHJh3E9mtRzbM3WVVl9glJg" target="_blank">`Androhub`</a>
-- LinkedIn ar<a href="https://www.linkedin.com/in/surender-kumar-681472a8?originalSubdomain=in" target="_blank">`@surender-kumar`</a>
+- LinkedIn at <a href="https://www.linkedin.com/in/surender-kumar-681472a8?originalSubdomain=in" target="_blank">`@surender-kumar`</a>
 - Twitter at <a href="https://twitter.com/sonusurender0/" target="_blank">`@sonusurender0`</a>
 - Email at surender@androhub.com
 

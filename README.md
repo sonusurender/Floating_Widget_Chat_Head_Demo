@@ -13,18 +13,18 @@ For detailed explanation of code, [visit here](http://www.androhub.com/android-f
 
 [![Watch demo](http://i3.ytimg.com/vi/B5zRaD7B504/hqdefault.jpg)](https://youtu.be/B5zRaD7B504)
 
+# Connect with Us
+- <a href="https://www.youtube.com/channel/@Androhub" target="_blank">`Youtube`</a>
+- <a href="https://www.facebook.com/androhubtutorial/" target="_blank">`Facebook`</a>
+- <a href="https://www.instagram.com/androhub_tutorial" target="_blank">`Instagram`</a>
+- <a href="https://www.linkedin.com/in/surender-kumar-681472a8?originalSubdomain=in" target="_blank">`LinkedIn `</a>
+- <a href="https://twitter.com/sonusurender0/" target="_blank">`Twitter`</a>
+- <a href="http://www.androhub.com/" target="_blank">`Website`</a>
+
 # Support
-Reach out to me at one of the following places!
+Reach out to me at surender@androhub.com.
 
-- Website at <a href="http://www.androhub.com/" target="_blank">`androhub.com`</a>
-- Facebook at <a href="https://www.facebook.com/androhubtutorial/" target="_blank">`@androhubtutorial`</a>
-- Youtube at <a href="https://www.youtube.com/channel/UCHJh3E9mtRzbM3WVVl9glJg" target="_blank">`Androhub`</a>
-- LinkedIn at <a href="https://www.linkedin.com/in/surender-kumar-681472a8?originalSubdomain=in" target="_blank">`@surender-kumar`</a>
-- Twitter at <a href="https://twitter.com/sonusurender0/" target="_blank">`@sonusurender0`</a>
-- Email at surender@androhub.com
-
-# Dontations(Optional)
+# Buy Me a Coffee
 Donate for the free content.
-<br>
 
-[![Support via Dontations](https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=sonu.surendra0%40gmail.com&currency_code=USD&source=url)
+<a href="https://www.buymeacoffee.com/androhub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
